@@ -18,4 +18,6 @@
 
 [Part 1](./CreateImages-AzureOpenAI-mdfile/Part%201%204cdfe31af0a34df2ad5fb37f79ed7da8.md)
 
-[part 2](./CreateImages-AzureOpenAI-mdfile/part%202%208b223f78dfaa485f9a945806f4c1f5a9.md)
+[part 2](./CreateImages-AzureOpenAI-mdfile/part%202%204d88fc6d876d4e148372fae2fcbc3969.md)
+
+[part 3](./CreateImages-AzureOpenAI-mdfile/part%203%208b223f78dfaa485f9a945806f4c1f5a9.md)
